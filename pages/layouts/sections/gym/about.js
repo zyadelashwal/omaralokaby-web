@@ -29,7 +29,7 @@ const About = () => (
                                 <p className="p-light about-para">
                                     Lorem Ipsum is simply dummy text of the printing andv typesetting industry. Lorem Ipsum
                                     has
-                                    been the industry's standard dummy text ever since the 1500s.
+                                    been the industry&apos;s standard dummy text ever since the 1500s.
                                 </p>
                                 <p className="p-light about-para">
                                     When an unknown printer took a galley of type and scrambled it to make a type specimen

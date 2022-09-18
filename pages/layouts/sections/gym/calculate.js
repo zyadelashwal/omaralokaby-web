@@ -16,7 +16,7 @@ const Calculate = () => (
                             <div className="format-sub-text">
                                 <p className="p-light about-para text-white">
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s.
                                 </p>
                             </div>
                             <div className="link-horizontal">
